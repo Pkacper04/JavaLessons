@@ -1,0 +1,1 @@
+This script is displaying month with given int value
