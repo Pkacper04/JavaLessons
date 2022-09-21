@@ -1,4 +1,4 @@
-package Calendar;
+package Foobar;
 
 public enum Month {
     Styczen,
